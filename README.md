@@ -1,2 +1,1 @@
-# thestudentshub
-Educational Platform for Students with Resources Across Multiple Subjects
+# The Students Hub\n\nA comprehensive educational platform for students.
